@@ -3,3 +3,4 @@ Raspi Camera Module - https://www.adafruit.com/product/3099?src=raspberrypi - $3
 Motor Mount - https://www.adafruit.com/product/1297 (x2) - $18
 Stepper Motor - https://www.adafruit.com/product/324 (x2) - $28
 Stepper Motor HAT - https://www.adafruit.com/product/2348 - $22.50
+LED Lights
