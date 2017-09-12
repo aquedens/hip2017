@@ -1,0 +1,31 @@
+Determine hardware needed
+Design model for vehicle
+Print vehicle model
+Assemble vehicle with hardware
+Software development
+
+
+Parts:
+- Raspberry pi 3
+- Raspi camera module: https://www.adafruit.com/product/3099?src=raspberrypi
+- Motor controller board
+- 2 stepper motors
+- White LED or RBG Light for the front
+- 2 drive wheels
+- swivel wheel
+- Jumper wires?
+- battery 1 or 2
+
+
+One motor for each wheel, turning based on turning up/down power to each
+-Python application on the raspberry pi that listens for commands
+-web sever for control and video of vehicle
+
+Web Server:
+-Live feed from camera
+-Take a screenshot of the current video frame and store it
+-Toggle for light on/off
+-Joystick for movement or use camera in landscape mode and have phone movements indicate left/right
+-Slider for speed
+-Possibly have a listener for speed/movement based on touch on the screen without taking up screen real estate. For example, just sliding up/down on the right side of the screen would affect the throttle even if there is no bar to show it
+

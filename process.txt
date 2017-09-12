@@ -1,0 +1,25 @@
+development steps:
+
+1. design
+2. parts list
+3. frame
+	a. 3d design
+	b. 3d print
+4. circuit
+	a. design
+	b. prototype
+	c. test
+	d. fix things
+	e. wiring and integration
+5. software
+	a. prototype
+	b. webserver
+		1. design
+		2. interface for hardware 
+	c. testing	
+6. assembly
+	a. frame
+	b. raspberry pi (circuit)
+	c. software
+7. test
+
