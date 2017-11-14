@@ -8,7 +8,7 @@
         <meta name="author" content="Alex Quedens">
         <link rel="icon" href="/var/www/html/imgs/icon.png">
 
-        <title>RC Camera Car - Home</title>
+        <title>RC Car Drone Controller - Home</title>
 
         <!-- Bootstrap core CSS -->
         <link href="css/bootstrap.css" rel="stylesheet">
@@ -35,17 +35,17 @@
               <a class="nav-link" href="details.php">Details</a>
             </li>
           </ul>
+        
         </div>
       </nav>
     </header>
         
         <div id="paragraph-welcome">
-            <center><br><br><br><h1>Welcome to the RC Camera Car Controller!</h1></center>
+            <center><br><br><br><p>Welcome, this is a test.</p></center>
         </div>
         <div id="button-control">
-            <center><br><a href="control.php"><h3>Control the Drone!</h3></a></center>
+            <center><br><a href=control.html>Control the Drone!</a></center>
         </div>
-        
             <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
