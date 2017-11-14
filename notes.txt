@@ -29,3 +29,11 @@ Web Server:
 -Slider for speed
 -Possibly have a listener for speed/movement based on touch on the screen without taking up screen real estate. For example, just sliding up/down on the right side of the screen would affect the throttle even if there is no bar to show it
 
+
+VLC Streaming:
+
+vlc -vvv screen:// --sout '#transcode{vcodec=theo,vb=256,scale=Auto,acodec=none}:http{dst=:8081/stream.ogg}'
+
+https://www.w3schools.com/html/html5_video.asp
+http://nicklothian.com/blog/2009/11/17/using-a-webcam-with-html-5-via-vlc/
+https://wiki.videolan.org/Documentation:Streaming_HowTo/Command_Line_Examples/
