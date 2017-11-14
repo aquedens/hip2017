@@ -3,7 +3,7 @@ Raspi Camera Module - https://www.adafruit.com/product/3099?src=raspberrypi - $3
 Motor Mount - https://www.adafruit.com/product/1297 (x2) - $18
 Stepper Motor - https://www.adafruit.com/product/324 (x2) - $28
 Stepper Motor HAT - https://www.adafruit.com/product/2348 - $22.50
-LED Lights
+LED Lights - https://www.digikey.com/product-detail/en/adafruit-industries-llc/1426/1528-1354-ND/5395892
 Tires - https://www.rcplanet.com/tires-wheels/tires-wheels-mounted/duratrax-sixpack-st-2-8-mounted-truck-tires-2wd-1-2-offset-black-dtxc3562/?gclid=EAIaIQobChMIzrGOhbnm1gIVEbjACh3S6gTbEAQYAiABEgK1nfD_BwE - $24.99
 
 
