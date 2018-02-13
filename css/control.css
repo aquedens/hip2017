@@ -1,0 +1,25 @@
+iframe {
+
+width: 650px;
+height: 1200px;
+}
+.floatleft {
+display: inline-block;
+width 25%;
+}
+#paragraph-welcome {
+overflow: hidden;
+}
+.floatright {
+display: inline-block;
+width: 25%;
+}
+.floatcenter {
+display: inline-block;
+width: 50%;
+text-align: right;
+}
+td {
+text-align: center;
+valign: top;
+}
